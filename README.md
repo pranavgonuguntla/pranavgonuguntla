@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! I'm Pranav, a first-year CS Student @ University of California, Irvine 👋
 
 <!--
 **pranavgonuguntla/pranavgonuguntla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
