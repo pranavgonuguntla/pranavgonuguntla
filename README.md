@@ -1,6 +1,6 @@
 ## Hi there! I'm Pranav, a third year CS + BIM Student @ University of California, Irvine 👋
 
-I'm extremely passionate about technology, healthcare, Computer Science, and the intersection of healthcare and CS. My curiosity drives me to stay at the forefront of technology, constantly seeking innovative solutions to real-world problems. I thrive on the challenges of transforming data into actionable insights, aiming to contribute meaningfully to the evolving landscape of AI.
+I'm extremely passionate about technology, healthcare, Computer Science, Machine Learning/AI, and full-stack development. My curiosity drives me to stay at the forefront of technology, constantly seeking innovative solutions to real-world problems. I thrive on the challenges of transforming data into actionable insights, aiming to contribute meaningfully to the evolving landscape of AI.
 
 Let's get in touch! Find me on [Linkedin](https://www.linkedin.com/in/pranavgonuguntla/).
 <!--
